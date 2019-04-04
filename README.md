@@ -14,13 +14,13 @@
 
 **3. Output/Result**
 
-![Output1](/images/Output1.png)
+![Output1](/RealTimeA2/Output1.png)
 
-![output2](/images/Output2.png)
+![output2](/RealTimeA2/Output2.png)
 
 **4. UML Class Diagram**
 
-![output2](/images/classA2.png)
+![output2](/RealTimeA2/classA2.png)
 
 **5. Youtube Link**
 I created a video regarding the program, the link is here: 
