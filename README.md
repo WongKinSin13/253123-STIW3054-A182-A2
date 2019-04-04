@@ -20,7 +20,7 @@
 
 **4. UML Class Diagram**
 
-![output2](/RealTimeA2/classA2.png)
+![classA2](/RealTimeA2/classA2.png)
 
 **5. Youtube Link**
 I created a video regarding the program, the link is here: 
