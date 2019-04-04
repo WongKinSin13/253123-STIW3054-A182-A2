@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.STIW3054_A2_253123.T3_SocList" project="pdf-reader" 
+    file="/pdf-reader/src/main/java/com/STIW3054_A2_253123/T3_SocList.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="173" x="112" y="191"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.STIW3054_A2_253123.Table_Extractor" project="pdf-reader" 
+    file="/pdf-reader/src/main/java/com/STIW3054_A2_253123/Table_Extractor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="247" x="325" y="366"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.STIW3054_A2_253123.PDF_Reader" project="pdf-reader" 
+    file="/pdf-reader/src/main/java/com/STIW3054_A2_253123/PDF_Reader.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="125" x="325" y="191"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.STIW3054_A2_253123.T4_SocNum" project="pdf-reader" 
+    file="/pdf-reader/src/main/java/com/STIW3054_A2_253123/T4_SocNum.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="177" x="490" y="191"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.STIW3054_A2_253123.T2_TotalExamDays" project="pdf-reader" 
+    file="/pdf-reader/src/main/java/com/STIW3054_A2_253123/T2_TotalExamDays.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="204" x="707" y="191"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.STIW3054_A2_253123.T1_TotalCourse" project="pdf-reader" 
+    file="/pdf-reader/src/main/java/com/STIW3054_A2_253123/T1_TotalCourse.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="194" x="951" y="191"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.STIW3054_A2_253123.T5_FindCourse" project="pdf-reader" 
+    file="/pdf-reader/src/main/java/com/STIW3054_A2_253123/T5_FindCourse.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="192" x="1185" y="191"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="8">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
